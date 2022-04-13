@@ -1,5 +1,5 @@
 import os
-figlet mando
+os.system("figlet mando")
 
 print("انتظر التحميل ......!!")
 os.system("pkg install wget")
